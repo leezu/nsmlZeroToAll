@@ -2,7 +2,8 @@
 ##############
 
 These are some short examples to get you up to speed with the different nsml
-features.
+features. Each code block contains one python file, that can be run with nsml.
+
 """
 
 ####################
